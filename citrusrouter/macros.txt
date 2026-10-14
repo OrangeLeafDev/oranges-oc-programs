@@ -1,0 +1,9 @@
+test
+200
+
+test
+200
+300
+
+install
+y
